@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "897015960885",
+    "project_id": "signup-ff4c2",
+    "storage_bucket": "signup-ff4c2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:897015960885:android:edbfde35d3ce5489d8e87c",
+        "android_client_info": {
+          "package_name": "com.example.signupgoogle"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "897015960885-avqubdngej98j7f7e3hrsac1aqv309nr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRBWB50atG-7l3fD8Hm0AeDWqhSBjyFGY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "897015960885-avqubdngej98j7f7e3hrsac1aqv309nr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
